@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nguyen-diy
+- 👋 Hi, I’m Nguyen
 - 👀 I’m interested in the exciting world of business and technology
 - 🌱 I’m currently learning about data analytics
 - 💞️ I’m looking to collaborate on data analytics projects for beginners 
